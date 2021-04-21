@@ -11,6 +11,7 @@ public class Hola_mundo {
 			cont++;
 		}
 		System.out.println("cambio 1");
+		System.out.println("otro cambio");
 		
 	}
 
