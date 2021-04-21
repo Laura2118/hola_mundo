@@ -6,7 +6,7 @@ public class Hola_mundo {
 		//y creas un repositorio
 		
 		System.out.println("hola mundo");
-		System.out.println("2 cambio");
+		System.out.println("cambio 1");
 		
 	}
 
