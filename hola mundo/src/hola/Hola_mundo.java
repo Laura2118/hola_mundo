@@ -5,7 +5,11 @@ public class Hola_mundo {
 		//boton derecho en java class team compartir proyecto
 		//y creas un repositorio
 		
-		System.out.println("hola mundo");
+		int cont=0;
+		while (cont<=10) {
+			System.out.println("hola mundo");
+			cont++;
+		}
 		System.out.println("cambio 1");
 		
 	}
